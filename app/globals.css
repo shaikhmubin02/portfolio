@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #0f2547, #1a3d66);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #09162d, #122645);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #0f2547 #000000;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

@@ -75,7 +75,7 @@ export const projects = [
     title: "Wealthwise: A Banking App",
     des: "financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether. If you like it, give it a star!",
     img: "/p1.png",
-    iconLists: ["/next.svg","/re.svg", "/tail.svg", "/ts.svg","/fm.svg"],
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
     link: "https://github.com/shaikhmubin02/banking-system",
   },
   {
@@ -86,7 +86,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://github.com/shaikhmubin02/virtual-meet.git",
   },
-  
+  {
+    id: 3,
+    title: "LiveDocs",
+    des: "LiveDocs is a modern collaborative text editor built to enhance real-time document collaboration, offering an improved alternative to tools like Google Docs. Utilizing Next.js for its interface, Liveblocks for real-time features, and TailwindCSS for styling, LiveDocs supports seamless collaboration among millions of users simultaneously.",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg", "/c.svg"],
+    link: "https://github.com/shaikhmubin02/virtual-meet.git",
+  },
 ];
 
 export const testimonials = [

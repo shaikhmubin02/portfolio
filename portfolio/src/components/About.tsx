@@ -85,8 +85,8 @@ export default function About() {
 
         <Paragraph className=" mt-4">
           In addition to being passionate about programming, I am eager to challenge myself to do things 
-          I've never accomplished before and I strive to learn and improve on my skills every day 
-          (for example, if you have constructive criticism and suggestion about this newly-made website, I'd be very glad to hear them :D).
+          I&apos;ve never accomplished before and I strive to learn and improve on my skills every day 
+          (for example, if you have constructive criticism and suggestion about this newly-made website, I&apos;d be very glad to hear them :D).
         </Paragraph>
         <Paragraph className=" mt-4">
           Thank you for being here, and I can&apos;t wait to embark on this

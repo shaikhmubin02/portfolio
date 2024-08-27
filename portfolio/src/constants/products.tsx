@@ -18,14 +18,14 @@ export const products = [
       <div>
         <p>
           Experience the power of seamless integration with our cutting-edge platform. Designed to connect all your essential apps, 
-          we bring everything you need into one intuitive interface. Whether you're managing projects, collaborating with your team, 
+          we bring everything you need into one intuitive interface. Whether you&apos;re managing projects, collaborating with your team, 
           or organizing your digital life, our platform ensures that your tools work together effortlessly. 
-          With our focus on simplicity and efficiency, you'll spend less time switching between apps and more time getting things done.
+          With our focus on simplicity and efficiency, you&apos;ll spend less time switching between apps and more time getting things done.
         </p>
         <p>
           Our team of expert developers and designers is dedicated to creating a platform that meets your needs. 
           We leverage the latest technologies to provide a reliable and secure environment where your data flows smoothly between services. 
-          We're passionate about innovation and committed to enhancing your productivity through smart, interconnected solutions. 
+          We&apos;re passionate about innovation and committed to enhancing your productivity through smart, interconnected solutions. 
           Join us and discover a new way to work, where all your favorite tools come together in perfect harmony.
         </p>{" "}
       </div>

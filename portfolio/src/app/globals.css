@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Width of the scrollbar */
+::-webkit-scrollbar {
+    width: 12px; /* For vertical scrollbar */
+    height: 12px; /* For horizontal scrollbar */
+  }
+  
+  /* Track (background of the scrollbar) */
+  ::-webkit-scrollbar-track {
+    background: #ffffff; 
+    border-radius: 10px;
+  }
+  
+  /* Handle (the scroll thumb) */
+  ::-webkit-scrollbar-thumb {
+    background: #e0e0e0; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c0c0c0; 
+  }
+  
+  /* Firefox scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #e0e0e0 #ffffff;
+  }

@@ -1,5 +1,5 @@
-import syncflow from "public/images/syncflow.png";
-import syncflow2 from "public/images/syncflow2.png";
+import syncflowhg from "public/images/syncflowhq.png";
+import syncflowhq2 from "public/images/syncflowhq2.png";
 import opm from "public/images/opm.png";
 import opm2 from "public/images/opm2.png";
 
@@ -9,8 +9,8 @@ export const products = [
     title: "SyncFlow",
     description:
       "Effortlessly connect and sync your apps globally. Manage everything from one platform, anywhere you are.",
-    thumbnail: syncflow,
-    images: [syncflow, syncflow2],
+    thumbnail: syncflowhg,
+    images: [syncflowhg, syncflowhq2],
     // stack: ["Nextjs", "Tailwindcss"],
     stack: ["Details"],
     slug: "syncflow",

@@ -8,7 +8,7 @@ export const products = [
     href: "",
     title: "SyncFlow",
     description:
-      "Effortlessly connect and sync your apps globally. Manage everything from one platform, anywhere you are.",
+      "Effortlessly Connecting Your Apps Globally",
     thumbnail: syncflowhg,
     images: [syncflowhg, syncflowhq2],
     // stack: ["Nextjs", "Tailwindcss"],
@@ -17,16 +17,10 @@ export const products = [
     content: (
       <div>
         <p>
-          Experience the power of seamless integration with our cutting-edge platform. Designed to connect all your essential apps, 
-          we bring everything you need into one intuitive interface. Whether you&apos;re managing projects, collaborating with your team, 
-          or organizing your digital life, our platform ensures that your tools work together effortlessly. 
-          With our focus on simplicity and efficiency, you&apos;ll spend less time switching between apps and more time getting things done.
+        I&apos;m currently developing SyncFlow, a platform designed to connect all your essential apps in one place, enabling seamless integration and management. SyncFlow will allow you to manage projects, collaborate with your team, and organize your digital life without the hassle of constantly switching between applications. With an intuitive interface, the platform will simplify workflows, helping users focus on what matters most—getting things done.
         </p>
         <p>
-          Our team of expert developers and designers is dedicated to creating a platform that meets your needs. 
-          We leverage the latest technologies to provide a reliable and secure environment where your data flows smoothly between services. 
-          We&apos;re passionate about innovation and committed to enhancing your productivity through smart, interconnected solutions. 
-          Join us and discover a new way to work, where all your favorite tools come together in perfect harmony.
+        As the developer and creator, I&apos;m working with edge technologies to ensure reliable, secure, and efficient data synchronization across services. Although still in development, SyncFlow reflects my passion for innovation and enhancing productivity through a smart, interconnected ecosystem.
         </p>{" "}
       </div>
     ),

@@ -1,26 +1,26 @@
-import syncflowhg from "public/images/syncflowhq.png";
-import syncflowhq2 from "public/images/syncflowhq2.png";
+import neuron from "public/images/neuron.png";
+import neuron2 from "public/images/neuron2.png";
 import opm from "public/images/opm.png";
 import opm2 from "public/images/opm2.png";
 
 export const products = [
   {
     href: "",
-    title: "SyncFlow",
+    title: "Neuron",
     description:
-      "Effortlessly Connecting Your Apps Globally",
-    thumbnail: syncflowhg,
-    images: [syncflowhg, syncflowhq2],
+      "Your Intelligent Research Assistant",
+    thumbnail: neuron,
+    images: [neuron2, neuron],
     // stack: ["Nextjs", "Tailwindcss"],
     stack: ["Details"],
-    slug: "syncflow",
+    slug: "neuron",
     content: (
       <div>
         <p>
-        I&apos;m currently developing SyncFlow, a platform designed to connect all your essential apps in one place, enabling seamless integration and management. SyncFlow will allow you to manage projects, collaborate with your team, and organize your digital life without the hassle of constantly switching between applications. With an intuitive interface, the platform will simplify workflows, helping users focus on what matters most—getting things done.
+        Neuron is an intelligent research assistant designed to help users stay informed and make informed decisions. It uses advanced algorithms to analyze data, extract insights, and provide personalized recommendations.
         </p>
         <p>
-        As the developer and creator, I&apos;m working with edge technologies to ensure reliable, secure, and efficient data synchronization across services. Although still in development, SyncFlow reflects my passion for innovation and enhancing productivity through a smart, interconnected ecosystem.
+        Neuron is designed to be a user-friendly tool that can be used by anyone, regardless of their technical expertise. It uses natural language processing to understand user queries and provide relevant information.
         </p>{" "}
       </div>
     ),
